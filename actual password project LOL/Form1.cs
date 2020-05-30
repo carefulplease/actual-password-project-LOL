@@ -36,7 +36,7 @@ namespace actual_password_project_LOL
 
             ball.Text = password.ToString();
         }
-
+        //hi miss hoff hope you enjoy my project
         private void Form1_MouseMove(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
